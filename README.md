@@ -178,11 +178,4 @@ To set up the live database, run `npm run migrate` and `npm run seed` from the
 Render's free plan puts the API to sleep when nobody is using it, so the first
 request after a break can take up to a minute.
 
-## Things I would add next
 
-- Different opening hours for each day of the week
-- Higher prices for peak hours
-- A limit on how many bookings one customer can hold
-- Email confirmations and reminders
-- Live updates of the slot grid when someone else books
-- Automated tests for the booking rules
